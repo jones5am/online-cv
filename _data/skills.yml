@@ -1,18 +1,18 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: R & R Studio: Data Mining, Cleansing, Manipulation, Analysis, Modeling and Visualization
   level: 95%
 - skill:
-  name: Ruby on Rails
+  name: Business Acumen: IT Consulting, Financial Analysis, Excel, MS office suite
+  level: 95%
+- skill:
+  name: BI & Visualization Tools: Qlik Sense, Microstrategy
+  level: 90%
+- skill:
+  name: Statistical Expertise: Linear Regression, Monte Carlo Sim, Time Series Forecasting, Optimization, Chi Square Testing, ANOVA
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Python, VBA
+  level: 80%
+- skill:
+  name: Machine Learning: KNN, K-Means
+  level: 50%
