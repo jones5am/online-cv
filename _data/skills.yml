@@ -1,18 +1,18 @@
 - skill:
-  name: R & R Studio: Data Mining, Cleansing, Manipulation, Analysis, Modeling and Visualization
+  name: "R & R Studio: Data Mining, Cleansing, Manipulation, Analysis, Modeling and Visualization"
   level: 95%
 - skill:
   name: Business Acumen: IT Consulting, Financial Analysis, Excel, MS office suite
   level: 95%
 - skill:
-  name: BI & Visualization Tools: Qlik Sense, Microstrategy
+  name: "BI & Visualization Tools: Qlik Sense, Microstrategy"
   level: 90%
 - skill:
-  name: Statistical Expertise: Linear Regression, Monte Carlo Sim, Time Series Forecasting, Optimization, Chi Square Testing, ANOVA
+  name: "Statistical Expertise: Linear Regression, Monte Carlo Sim, Time Series Forecasting, Optimization, Chi Square, ANOVA"
   level: 85%
 - skill:
-  name: Python, VBA
+  name: "Python, VBA"
   level: 80%
 - skill:
-  name: Machine Learning: KNN, K-Means
+  name: "Machine Learning: KNN, K-Means"
   level: 50%
