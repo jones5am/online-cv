@@ -14,7 +14,11 @@ style: styles-3
 name: Andrew Jones
 tagline: Data Scientist
 pic: Profile Pic 100.100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Driven and entreprenuerial quantitative analyst with a strong background in core business skills.
+summary: 'Driven and entreprenuerial quantitative analyst with a strong background in core business skills. Consistently
+pioneers innovative approaches by coupling a strong understanding of data science with an entrepreneurial mindset.
+Valued technical skills in programming, data analysis, analytics, visualization, statistics, simulation, predictive
+forecasting and optimization. Demonstrated business acumen with program management, client relationship 
+management, leadership and finance. Committed to leading the efforts that capitalize on the most challenging issues.'
 
 
 #sidebar links
