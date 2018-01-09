@@ -1,28 +1,43 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  role: Federal Technology Consultant: Analytics Work-stream
+  time: 5/2017 - Present
+  company: Deloitte Consulting LLP, Washington D.C.
+  details: Highly analytical role focusing on developing and socializing marketing analytics. 
+  Responsible for developing, maintaining and implementing more than 20 reporting documents,
+  and dashboards covering over 200+ metrics. This required using advanced technical skills 
+  in R & Python to aggregate various data sources into the appropriate structure before applying 
+  statistical analysis to bring about insights. Additionally a large part of this role required responding
+  to frequent time sensitive ad-hoc requests requiring a deep knowledge of system architecture and available data.
+  
   <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  Some specific examples of my experience in this role include:
+  
+  *In response to a maturing marketing platform, pioneered a suite of R scripts that resulted in major efficiency
+  gains by automatically processing millions of records from hundreds of files into various reporting mechanisms.
+  *In preparation for the 2020 census, led a statistical analysis which resulted in a linear regression model that
+  combined several demographic factors into a predictive model for consumer response rates at the ZIP code level
+  for 39,000+ distinct ZIP codes.
+  *Successfully positioned our team to win future work by designing and socializing an executive dashboard that
+  visualizes system performance, user interaction and response rates across the United States.
+  * Created the foundation for a pricing mechanism by developing a Monte Carlo Simulation model that predicts
+  campaign level consumer response rates from various input factors.
+  
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Federal Technology Consultant: IT Cost Estimation Lead
+  time: 7/2015 - 5/2017
+  company: Deloitte Consulting LLP, Washington D.C.
+  details:  Through effective client management of 35+ continuing stakeholders and various IT project teams, led the IT investment
+  management process for major IT investments over $5 million dollars. This validation on close to a billion dollars across 31
+  separate IT projects in fiscal year 2017 alone, ensured accurate & rigorous estimates were given as a foundation to these
+  projects funding needs. This high visibility role required a high degree of professionalism as these projects are often mission
+  critical to the business customers they serve, their approval is pivotal to the project owners careers, and multiple tollgates
+  are in place that require frequent VP level discussions.
+  
+  <br> <br>
+  Besides the experience listed above, some specific examples of accomplishments in this role include:
+  * Led the effort to predict IT spend at the VP of IT level using advanced time series forecasting methods. This analysis on
+  an approximately billion dollar budget, when measured against fiscal year performance, had an average error of only 7%.
+  *Piloted demand management activities to prioritize IT development and spend
+  *Showcased Monte Carlo simulation as an advanced way of generating flexible cost estimates covering the full range possible outcomes
+  
+
