@@ -1,6 +1,6 @@
 # Site Settings
 title: Andrew's Resume
-url: 'http://webjeda.com'
+url: 
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -22,7 +22,7 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: jones5am.aj@gmail.com
 phone: 571 262 9461
-website: blog.webjeda.com #do not add http://
+website: 
 linkedin: andrew-jones112358
 github: jones5am
 twitter: 
