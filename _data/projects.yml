@@ -1,13 +1,11 @@
 - intro:
   description: "Take a look at some of my GitHub repositories below for some work samples and projects!
   <br><br>
-  Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.
-  These projects are the product of my own extracuricular work, including my graduate studies. Please note some
-  projects were a group effort and this is indicated in the ReadMe file if applicable."
+  Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.These projects are the product of my own extracuricular work, including my graduate studies. Please note some projects were a group effort and this is indicated in the ReadMe file if applicable."
 
 - project:
   title: Data Mining Project on World Military Spending
-  link: "#hook"
+  link: "https://github.com/jones5am/Work-Samples"
   tagline: "This project focused on data mining the SIPRI Milex dataset of world military spending by country."
 - project:
   title: Predictive Modeling on Seattle Housing Prices
