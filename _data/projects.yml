@@ -3,25 +3,25 @@
   <br><br>
   Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.
   These projects are the product of my own extracuricular work, including my graduate studies. Please note some
-  projects were a group effort and this indicated in the ReadMe file if applicable"
+  projects were a group effort and this is indicated in the ReadMe file if applicable."
 
 - project:
-  title: Velocity
+  title: Data Mining Project on World Military Spending
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "This project focused on data mining the SIPRI Milex dataset of world military spending by country."
 - project:
-  title: DevStudio
+  title: Predictive Modeling on Seattle Housing Prices
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "This project built a predictive linear regression model for housing prices in the Seatle Housing market by using the Regsubsets method of feature selection and arriving at a .65 Adjusted Rsquared."
 - project:
-  title: Tempo
+  title: Data Mining Project on Commodities Prices since 1960
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "This project mines insights from a comprehensive dataset on publicly traded commodities obtained from the World Bank."
 - project:
-  title: Atom
+  title: Regsubsets Method for Feature Selection
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: "Analysis focusing on using the various regsubsets selection methods to create a linear regression on health data."
 - project:
-  title: Delta
+  title: Temporal Analysis on Chicago Crime Data
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Temporal Analysis exploring factors contributing to Chicago Crime Data."
