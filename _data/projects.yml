@@ -1,6 +1,9 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Take a look at some of my GitHub repositories below for some work samples and projects!
+  <br><br>
+  Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.
+  These projects are the product of my own extracuricular work, including my graduate studies. Please note some
+  projects were a group effort and this indicated in the ReadMe file if applicable"
 
 - project:
   title: Velocity
