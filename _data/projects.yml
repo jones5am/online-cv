@@ -13,7 +13,7 @@
   tagline: "This project built a predictive linear regression model for housing prices in the Seatle Housing market by using the Regsubsets method of feature selection and arriving at a .65 Adjusted Rsquared."
 - project:
   title: Data Mining Project on Commodities Prices since 1960
-  link: "#"
+  link: "https://github.com/jones5am/DataMining_Commodities"
   tagline: "This project mines insights from a comprehensive dataset on publicly traded commodities obtained from the World Bank."
 - project:
   title: Regsubsets Method for Feature Selection
