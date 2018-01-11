@@ -9,7 +9,7 @@
   tagline: "This project focused on data mining the SIPRI Milex dataset of world military spending by country."
 - project:
   title: Predictive Modeling on Seattle Housing Prices
-  link: "#"
+  link: "https://github.com/jones5am/PredictiveModel_SeattleHousingPrices"
   tagline: "This project built a predictive linear regression model for housing prices in the Seatle Housing market by using the Regsubsets method of feature selection and arriving at a .65 Adjusted Rsquared."
 - project:
   title: Data Mining Project on Commodities Prices since 1960
@@ -17,9 +17,9 @@
   tagline: "This project mines insights from a comprehensive dataset on publicly traded commodities obtained from the World Bank."
 - project:
   title: Regsubsets Method for Feature Selection
-  link: "#"
+  link: "https://github.com/jones5am/Regsubset_FeatureSelection_HealthData"
   tagline: "Analysis focusing on using the various regsubsets selection methods to create a linear regression on health data."
 - project:
   title: Temporal Analysis on Chicago Crime Data
-  link: "#"
+  link: "https://github.com/jones5am/PredictiveModel_SeattleHousingPrices"
   tagline: "Temporal Analysis exploring factors contributing to Chicago Crime Data."
