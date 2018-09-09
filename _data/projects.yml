@@ -6,7 +6,7 @@
 - project: 
   title: Connecting IoT to Automl
   link: "https://github.com/jones5am/Connecting_IoT_to_AutoML"
-  tagline: "This project combined Raspberry Pi derived senor data, with open source AutoML packages to showcase a proof-of-concept for cost efficient industrial optimzation systems"
+  tagline: "This project combined Raspberry Pi derived senor data, with open source AutoML packages, to showcase a proof-of-concept for designing cost efficient industrial optimzation systems"
 - project:
   title: Data Mining Project on World Military Spending
   link: "https://github.com/jones5am/DataMining_WorldMilitarySpending"
