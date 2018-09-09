@@ -3,6 +3,10 @@
   <br><br>
   Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.These projects are the product of my own extracuricular work, including my graduate studies. Please note some projects were a group effort and this is indicated in the ReadMe file if applicable."
 
+- project: 
+  title: Connecting IoT to Automl
+  link: "https://github.com/jones5am/Connecting_IoT_to_AutoML"
+  tagline: "This project combined Raspberry Pi derived senor data, with open source AutoML packages to showcase a proof-of-concept for cost efficient industrial optimzation systems"
 - project:
   title: Data Mining Project on World Military Spending
   link: "https://github.com/jones5am/DataMining_WorldMilitarySpending"
