@@ -8,6 +8,10 @@
   link: "https://github.com/jones5am/Connecting_IoT_to_AutoML"
   tagline: "This project combined Raspberry Pi derived senor data, with open source AutoML packages, to showcase a proof-of-concept for designing cost efficient industrial optimzation systems"
 - project:
+  title: Network DOS Attack Detection
+  link: "https://github.com/jones5am/Network_DOS_Attack_Detection"
+  tagline: "Using the 1998 DARPA Intrusion Detection Evaluation dataset I configured a Random Forest model for anomaly detection"
+- project:
   title: Data Mining Project on World Military Spending
   link: "https://github.com/jones5am/DataMining_WorldMilitarySpending"
   tagline: "This project focused on data mining the SIPRI Milex dataset of world military spending by country."
