@@ -1,5 +1,5 @@
 - skill:
-  name: "R & R Studio: Data Mining, Cleansing, Manipulation, Analysis, Modeling and Visualization"
+  name: "Python and R: Data Mining, Cleansing, Manipulation, Analysis, Modeling and Visualization"
   level: 95%
 - skill:
   name: "Business Acumen: IT Consulting, Financial Analysis, Excel, MS office suite"
@@ -11,8 +11,8 @@
   name: "Statistical Expertise: Linear Regression, Monte Carlo Sim, Time Series Forecasting, Optimization, Chi Square, ANOVA"
   level: 85%
 - skill:
-  name: "Python, VBA"
-  level: 80%
+  name: "VBA, Custom Excel Macros"
+  level: 75%
 - skill:
-  name: "Machine Learning: KNN, K-Means"
-  level: 50%
+  name: "Machine Learning: AutoML, Neural Networking (including “Deep Learning”), Regression Techniques (linear, logistic etc.), Tree Based Methods (e.g. Random Forest), Clustering Methods (e.g. KNN)"
+  level: 70%
