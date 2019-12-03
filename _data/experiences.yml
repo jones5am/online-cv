@@ -7,7 +7,24 @@
   role: Data Scientist, Military Digital Group
   time: 4/2019 - Present
   company: GE Aviation, Washington D.C.
-  details: "text"
+  details: "• For a major DoD customer, engaged in creating various data pipelines using Python to connect disparate
+  source systems data before developing Tableau views. These views will be implemented as part of a governance process
+  to reform readiness understanding within the organization. 
+  <br><br>
+  • Using open source AutoML technology and working with engine experts, created a blade failure algorithm
+  to correctly predict failures in this critical engine component. Involved typical Data Science steps of data
+  exploration, feature engineering (to include creating synthetic records), model selection, evaluation
+  and user acceptance.
+  <br><br>
+  • Using Docker, established the correct dependencies and containerization procedures to allow a critical
+  engine health algorithm to deploy in any technical environment. This is expected to be utilized across several
+  rotorcraft platforms, become a key component of predicting engine health, and improve many downstream supply
+  chain and maintenance organizations.
+  <br><br>
+  •	Led pre-sales and proposal development activities for military Data Science opportunities.
+  <br><br>
+  • Mentored Data Science teams during a Navy sponsored Hack-a-thon event centered around maintenance data of F-18
+  Super Hornets."
   
 - experience:
   role: Senior Consultant, Data Science and Analtyics
@@ -34,17 +51,17 @@
   <br> <br>
   Some specific examples of my experience in this role include
   <br> <br>
-  *In response to a maturing marketing platform, pioneered a suite of R scripts that resulted in major efficiency
+  • In response to a maturing marketing platform, pioneered a suite of R scripts that resulted in major efficiency
   gains by automatically processing millions of records from hundreds of files into various reporting mechanisms.
   <br> <br>
-  •In preparation for the 2020 census, led a statistical analysis which resulted in a linear regression model that
+  • In preparation for the 2020 census, led a statistical analysis which resulted in a linear regression model that
   combined several demographic factors into a predictive model for consumer response rates at the ZIP code level
   for 39,000+ distinct ZIP codes.
   <br> <br>
-  *Successfully positioned our team to win future work by designing and socializing an executive dashboard that
+  •	Successfully positioned our team to win future work by designing and socializing an executive dashboard that
   visualizes system performance, user interaction and response rates across the United States.
   <br> <br>
-  * Created the foundation for a pricing mechanism by developing a Monte Carlo Simulation model that predicts
+  •	  Created the foundation for a pricing mechanism by developing a Monte Carlo Simulation model that predicts
   campaign level consumer response rates from various input factors."
   
 - experience:
