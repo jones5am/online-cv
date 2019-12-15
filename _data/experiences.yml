@@ -1,7 +1,7 @@
 - experience:
   role: Independent Consultant, Data Science Consulting
   time: 8/2019 - Present
-  details: "Engaged as an independent consultant for a project to provide system architecture and pricing for a new
+  details: "Engaged as an independent consultant to provide system architecture and pricing for a new
   commercial data platform. Pricing project involved the creation of a Monte Carlo simulation to account for unknown
   variables & provide a holistic Total Cost of Ownership (TCO) to the organization. After the successful delivery of this project,
   the client is continuing to move forward in constructing the platform we designed & priced."
@@ -35,9 +35,11 @@
   company: Fresh Gravity, Washington D.C.
   details: "• Diverse role including business development, project leadership, and solution development for a small
   Data Science consulting firm with a focus on Machine Learning based solutions.
+  <br><br>
   • Led the successful pursuit of several Machine Learning focused projects for various firms, including Fortune 500
   companies. This process often involved many phases such as use case development, solution ideation, technical 
   proposal writing & delivery, and proof-of-concept development.
+  <br><br>
   • Took the lead functional role in the delivery of several diverse cutting-edge projects such as Deep Learning for
   Time Series Forecasting, translating natural language to SQL (NLIDB), and NLP for pharmacovigilance case processing"
 
