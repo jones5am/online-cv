@@ -4,6 +4,10 @@
   Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.These projects are the product of my own extracuricular work, including my graduate studies. Please note some projects were a group effort and this is indicated in the ReadMe file if applicable."
 
 - project: 
+  title: Malware Classification Using Deep Learning
+  link: "https://github.com/jones5am/Malware_Classification_Using_Deep_Learning"
+  tagline: "This project first involved translating hex files into a binary stream 1D image. Then building various deep learning networks based on CNN and Bi-Directional LSTM to classify the known malware files into 9 different classes."
+- project: 
   title: Connecting IoT to Automl
   link: "https://github.com/jones5am/Connecting_IoT_to_AutoML"
   tagline: "This project combined Raspberry Pi derived senor data, with open source AutoML packages, to showcase a proof-of-concept for designing cost efficient industrial optimzation systems."
