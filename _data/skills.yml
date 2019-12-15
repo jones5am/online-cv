@@ -1,5 +1,5 @@
 - skill:
-  name: "Languages: Python, R, SQL, Visual Basic, VBA"
+  name: "Languages: <br> Python, R, SQL, Visual Basic, VBA"
   level: 95%
 - skill:
   name: "Machine Learning: AutoML, Neural Networks, Image Processing, Regression Techniuqes, Tree Based Methods, Clustering Methods"
@@ -17,7 +17,7 @@
   name: "Database: MySQL, MySQL Workbench" 
   level: 65%
 - skill:
-  name: "Visualization: Tableau, Qlik Sense, PowerBI Matplotlib" 
+  name: "Visualization: Tableau, Qlik Sense, PowerBI, Matplotlib" 
   level: 90%
 - skill:
   name: "Containerization: Docker"
