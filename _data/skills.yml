@@ -1,23 +1,33 @@
 - skill:
-  name: "Python and R: Data Mining, Cleansing, Manipulation, Analysis, Modeling and Visualization"
+  name: "Languages: Python, R, SQL, Visual Basic, VBA"
   level: 95%
 - skill:
-  name: "Business Acumen: IT Consulting, Financial Analysis, Excel, MS office suite"
-  level: 95%
-- skill:
-  name: "BI & Visualization Tools: Qlik Sense, Microstrategy"
-  level: 90%
-- skill:
-  name: "Statistical Expertise: Linear Regression, Monte Carlo Sim, Time Series Forecasting, Optimization, Chi Square, ANOVA"
+  name: "Machine Learning: AutoML, Neural Networks, Image Processing, Regression Techniuqes, Tree Based Methods, Clustering Methods"
   level: 85%
 - skill:
-  name: "VBA, Custom Excel Macros"
+  name: "Analytics: Data Mining, Time Series Forecasting, Reliability Analysis, Monte Carlo Simulation, Chi-Square Testing, Scenario & Sensitivity Analysis, Oracel Crystal Ball"
+  level: 90%
+- skill:
+  name: "Cloud Services: AWS (S3, DynamoDB, SageMaker, RDS), Azure (Databricks)"
   level: 75%
 - skill:
-  name: "Machine Learning: 
-  AutoML 
-  Neural Networking (including “Deep Learning”)
-  Regression Techniques (linear, logistic etc.)
-  Tree Based Methods (e.g. Random Forest)
-  Clustering Methods (e.g. KNN)"
+  name: "Data Pipeline: Apache Spark"
+  level: 65%
+- skill:
+  name: "Database: MySQL, MySQL Workbench" 
+  level: 65%
+- skill:
+  name: "Visualization: Tableau, Qlik Sense, PowerBI Matplotlib" 
+  level: 90%
+- skill:
+  name: "Containerization: Docker"
+  level: 80%
+- skill:
+  name: "Solution Architecting: Persona Mapping, Use Case Modeling, Conceptual & Technical Architecture Diagramming" 
   level: 70%
+- skill:
+  name: "MS Office: Word, PowerPoint, Visio, Teams, Flow, Excel (Custom VBA macros, advanced modeling), SharePoint SCA"
+  level: 100%
+- skill:
+  name: "Business Acumen: Client Relationships, Business Development, Project Management, Financial Analysis, Technical & Functional proposal writting"
+  level: 100%
