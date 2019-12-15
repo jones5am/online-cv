@@ -1,7 +1,7 @@
 - experience:
   role: Independent Consultant, Data Science Consulting
   time: 8/2019 - Present
-  details: "•Engaged as an independent consultant for a project to provide system architecture and pricing for a new
+  details: "Engaged as an independent consultant for a project to provide system architecture and pricing for a new
   commercial data platform. Pricing project involved the creation of a Monte Carlo simulation to account for unknown
   variables & provide a holistic Total Cost of Ownership (TCO) to the organization. After the successful delivery of this project,
   the client is continuing to move forward in constructing the platform we designed & priced."
@@ -44,38 +44,29 @@
   role: Federal Technology Consultant, Analytics Workstream
   time: 5/2017 - 3/2018
   company: Deloitte Consulting LLP, Washington D.C.
-  details: "Highly analytical role focusing on developing and socializing marketing analytics. 
-  Responsible for developing, maintaining and implementing more than 20 reporting documents,
-  and dashboards covering over 200+ metrics. This required using advanced technical skills 
-  in R & Python to aggregate various data sources into the appropriate structure before applying 
-  statistical analysis to bring about insights. Additionally a large part of this role required responding
-  to frequent time sensitive ad-hoc requests requiring a deep knowledge of system architecture and available data.
-  
-  <br> <br>
-  Some specific examples of my experience in this role include
-  <br> <br>
-  • In response to a maturing marketing platform, pioneered a suite of R scripts that resulted in major efficiency
-  gains by automatically processing millions of records from hundreds of files into various reporting mechanisms.
+  details: 
+  "• In response to a maturing marketing platform, pioneered a suite of R scripts that resulted in major efficiency
+     gains by automatically processing millions of records from hundreds of files into various reporting mechanisms
+     and 200+ metrics.
   <br> <br>
   • In preparation for the 2020 census, led a statistical analysis which resulted in a linear regression model that
-  combined several demographic factors into a predictive model for consumer response rates at the ZIP code level
-  for 39,000+ distinct ZIP codes.
+    combined several demographic factors into a predictive model for consumer response rates at the ZIP code level
+    for 39,000+ distinct ZIP codes.
   <br> <br>
-  •	Successfully positioned our team to win future work by designing and socializing an executive dashboard that
-  visualizes system performance, user interaction and response rates across the United States.
+  •	Successfully positioned our team to win future work by designing and socializing an executive dashboard in Qlik Sense
+    that visualizes system performance, user interaction and response rates across the United States.
   <br> <br>
-  •	  Created the foundation for a pricing mechanism by developing a Monte Carlo Simulation model that predicts
-  campaign level consumer response rates from various input factors."
+  • Created the foundation for a pricing mechanism by developing a Monte Carlo Simulation model that predicts
+    campaign level consumer response rates from various input factors."
   
 - experience:
   role: Federal Technology Analyst, IT Cost Estimation Lead
   time: 7/2015 - 5/2017
   company: Deloitte Consulting LLP, Washington D.C.
-  details: "Through effective client management of 35+ continuing stakeholders and various IT project teams, led the IT investment
-  management process for major IT investments over $5 million dollars. This validation on close to a billion dollars across 31
-  separate IT projects in fiscal year 2017 alone, ensured accurate & rigorous estimates were given as a foundation to these
-  projects funding needs. This high visibility role required a high degree of professionalism as these projects are often mission
-  critical to the business customers they serve, their approval is pivotal to the project owners careers, and multiple tollgates
-  are in place that require frequent VP level discussions. In addition I led the effort to predict IT spend at the VP of IT level
-  using advanced time series forecasting methods. This analysis on an approximately billion dollar budget, when measured against
-  fiscal year performance, had an average error of only 7%."
+  details: 
+  "• For high visibility IT projects costing over $5 million dollars, led the process and junior resources that would 
+     price around $2 billion of IT investments. The project financial estimates would be used to inform an investment committee's
+     decisions for VP level IT and finance clients
+  <br><br>
+   • For a budget of approximately a billion dollars, implemented a Time Series Forecasting tool that accurately predicted IT
+     spend to within a 7% error and informed critical funding re-allocations"
