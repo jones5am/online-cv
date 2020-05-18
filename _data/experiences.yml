@@ -1,12 +1,4 @@
 - experience:
-  role: Independent Consultant, Data Science Consulting
-  time: 8/2019 - Present
-  details: "Engaged as an independent consultant to provide system architecture and pricing for a new
-  commercial data platform. Pricing project involved the creation of a Monte Carlo simulation to account for unknown
-  variables & provide a holistic Total Cost of Ownership (TCO) to the organization. After the successful delivery of this project,
-  the client is continuing to move forward in constructing the platform we designed & priced."
-  
-- experience:
   role: Data Scientist, Military Digital Group
   time: 4/2019 - Present
   company: GE Aviation, Washington D.C.
@@ -28,6 +20,14 @@
   <br><br>
   • Mentored Data Science teams during a Navy sponsored Hack-a-thon event centered around maintenance data of F-18
   Super Hornets."
+
+- experience:
+  role: Independent Consultant, Data Science Consulting
+  time: 8/2019 - 1/2020
+  details: "Engaged as an independent consultant to provide system architecture and pricing for a new
+  commercial data platform. Pricing project involved the creation of a Monte Carlo simulation to account for unknown
+  variables & provide a holistic Total Cost of Ownership (TCO) to the organization. After the successful delivery of this project,
+  the client is continuing to move forward in constructing the platform we designed & priced."
   
 - experience:
   role: Senior Consultant, Data Science and Analtyics
