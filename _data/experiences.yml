@@ -1,6 +1,14 @@
 - experience:
+  role: Data Scientist, Underwriting
+  time: 5/2019 - 5/2019
+  company: Hastings Direct, London U.K.
+  details: "••	For a leading digital insurer, leading a variety of projects focused on:
+  large loss prediction, claims frequency prediction, creating data validation libraries
+  and modernizing deployment architecture.
+  
+- experience:
   role: Data Scientist, Military Digital Group
-  time: 4/2019 - Present
+  time: 5/2019 - 5/2019
   company: GE Aviation, Washington D.C.
   details: "• For a major DoD customer, engaged in creating various data pipelines using Python to connect disparate
   source systems data before developing Tableau views. These views will be implemented as part of a governance process
