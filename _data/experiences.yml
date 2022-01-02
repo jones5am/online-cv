@@ -7,7 +7,7 @@
   <br><br>
   •	Developed and productionized two market data based XGBoost price prediction algorithms to significantly increase sales and average policy premium.
   Effort involved all typical aspects of data science model development including data sourcing through model selection & hyperparameter tuning. However, this effort had the additional challenge of
-  productionizing these complex models within legacy industry tools (Polaris)
+  productionizing these complex models within legacy industry tools (Polaris).
   <br><br>
   •	Led a small team in the development & operationalization of an MLOps model development & deployment platform. This Azure cloud platform is going to hugely accelerate the model
   development & deployment process via the introduction of various cloud services for modern model development tools (Databricks), automated deployment pipelines (Azure DevOps)
