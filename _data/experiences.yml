@@ -2,9 +2,19 @@
   role: Data Scientist, Underwriting
   time: 9/2020 - Current
   company: Hastings Direct, London U.K.
-  details: "•	For a leading digital insurer, leading a variety of projects focused on:
-  large loss prediction, claims frequency prediction, creating data validation libraries
-  and modernizing deployment architecture."
+  details: "•	For a leading digital insurer, leading a variety of projects focused on: market average price prediction, 
+  large loss prediction, claims frequency prediction, modernizing deployment architecture via cloud sevices (Azure) and establishing MLOps processes.
+  <br><br>
+  •	Developed and productionized two market data based XGBoost price prediction algorithms to significantly increase sales and average policy premium.
+  Effort involved all typical aspects of data science model development including data sourcing through model selection & hyperparameter tuning. However, this effort had the additional challenge of
+  productionizing these complex models within legacy industry tools (Polaris)
+  <br><br>
+  •	Led a small team in the development & operationalization of an MLOps model development & deployment platform. This Azure cloud platform is going to hugely accelerate the model
+  development & deployment process via the introduction of various cloud services for modern model development tools (Databricks), automated deployment pipelines (Azure DevOps)
+  and automated scalability (Kubernetes).
+  This will position Hastings for continued success on aggregator insurance search sites that constitute the primary channel for new business in the UK market.
+  <br><br>
+  •	Created model interpretability modules using SHAP values for increasing trust in an NLP based claims prediction algorithm."
   
 - experience:
   role: Data Scientist, Military Digital Group
