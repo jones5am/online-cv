@@ -1,6 +1,13 @@
 - experience:
-  role: Data Scientist, Underwriting
-  time: 9/2020 - Current
+  role: Senior Data Scientist, Underwriting Data Services
+  time: 3/2022 - Current
+  company: CFC Underwriting, London U.K.
+  details: "•	For a scaling specialist insurer focusing on cybersecurity offerings, leading the process design and model development for an autonomous underwriting
+  system that can profitably quote core products without human intervention"
+
+- experience:
+  role: Senior Data Scientist, Underwriting
+  time: 9/2020 - 3/2022
   company: Hastings Direct, London U.K.
   details: "•	For a leading digital insurer, leading a variety of projects focused on: market average price prediction, 
   large loss prediction, claims frequency prediction, modernizing deployment architecture via cloud sevices (Azure) and establishing MLOps processes.
