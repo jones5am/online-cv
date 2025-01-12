@@ -3,18 +3,26 @@
   time: 3/2022 - Current
   company: CFC Underwriting, London U.K.
   details: "•	For a scaling specialist insurer focusing on cybersecurity offerings, leading the process design and model development for an autonomous underwriting
-  system that can profitably quote core products without human intervention"<br><br>
-• Lead Data Scientist and Product Owner for the team that developed a core underpinning system at CFC. This system enabled correct firm identification and entity resolved a huge variety of attributes to be used for automation, pricing, risk selection and cross sell purposes throughout the business <br><br>
-• Developed a document parsing system that extracted attributes needed for automation decisions. The first impact of this system is how it's enabled CFCs renewal book to proceed autonomously at policy expiry."
+  system that can profitably quote core products without human intervention
+  <br><br>
+  • Lead Data Scientist and Product Owner for the team that developed a core underpinning system at CFC. This system enabled correct firm identification and entity resolved a huge variety of attributes to be used for automation, pricing, risk selection and cross sell purposes throughout the business
+  <br><br>
+  • Developed a document parsing system that extracted attributes needed for automation decisions. The first impact of this system is how it's enabled CFCs renewal book to proceed autonomously at policy expiry."
 
 - experience:
   role: Senior Data Scientist, Underwriting
   time: 9/2020 - 3/2022
   company: Hastings Direct, London U.K.
-  details: "•For a leading digital insurer, led a variety of projects focused on: market average price prediction, large loss prediction, claims frequency prediction, modernizing deployment architecture via cloud services (Azure Databricks) and establishing MLOps processes. <br><br>
-• Developed and productionized two market data based XGBoost price prediction algorithms to significantly increase sales and average policy premium. Effort involved all typical aspects of data science model development including data sourcing through model selection & hyperparameter tuning. <br><br>
-• Directed a small team in developing and operationalizing an MLOps platform on Databricks. This solution enhances agility by enabling a balance between model complexity and response time which is crucial for accommodating the quick response time cutoffs imposed by aggregator sites.<br><br>
-• Created model interpretability modules using SHAP values for increasing trust in an NLP based claims prediction algorithm."
+  details: "•For a leading digital insurer, led a variety of projects focused on:
+  market average price prediction, large loss prediction, claims frequency prediction, modernizing deployment architecture via cloud services (Azure Databricks) and establishing MLOps processes. 
+  <br><br>
+  • Developed and productionized two market data based XGBoost price prediction algorithms to significantly increase
+  sales and average policy premium. Effort involved all typical aspects of data science model development including data sourcing through model selection & hyperparameter tuning.
+  <br><br>
+  • Directed a small team in developing and operationalizing an MLOps platform on Databricks.
+  This solution enhances agility by enabling a balance between model complexity and response time which is crucial for accommodating the quick response time cutoffs imposed by aggregator sites.
+  <br><br>
+  • Created model interpretability modules using SHAP values for increasing trust in an NLP based claims prediction algorithm."
   
 - experience:
   role: Data Scientist, Military Digital Group
