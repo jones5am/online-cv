@@ -1,33 +1,35 @@
 - skill:
-  name: "Languages:<br> Python, R, SQL, Visual Basic, VBA"
+  name: "Business Acumen:<br>  Stakeholder Management, Product Ownership, Project Management"
+  level: 100%
+- skill:
+  name: "Solution Architecture:<br>  Persona Mapping, Use Case Modeling, Data Modeling, Conceptual & Technical Architecture Diagramming" 
   level: 95%
 - skill:
-  name: "Machine Learning:<br>  AutoML, Neural Networks, Image Processing, Regression Techniuqes, Tree Based Methods, Clustering Methods"
+  name: "GenAI:<br> LangChain, LangGraph, Databricks MosaicAI"
   level: 85%
 - skill:
-  name: "Analytics:<br>  Data Mining, Time Series Forecasting, Reliability Analysis, Monte Carlo Simulation, Chi-Square Testing, Scenario & Sensitivity Analysis, Oracel Crystal Ball"
-  level: 90%
+  name: "Classic Machine Learning:<br>  AutoML, Neural Networks, Image Processing, Regression Techniuqes, Tree Based Methods, Clustering Methods"
+  level: 85%
 - skill:
-  name: "Cloud Services:<br>  AWS (S3, DynamoDB, SageMaker, RDS), Azure (Databricks)"
-  level: 75%
-- skill:
-  name: "Data Pipeline:<br>  Apache Spark"
-  level: 65%
-- skill:
-  name: "Database:<br>  MySQL, MySQL Workbench" 
-  level: 65%
-- skill:
-  name: "Visualization:<br>  Tableau, Qlik Sense, PowerBI, Matplotlib" 
-  level: 90%
-- skill:
-  name: "Containerization:<br>  Docker"
+  name: "Analytics:<br>  Data Mining, Time Series Forecasting, Monte Carlo Simulation"
   level: 80%
 - skill:
-  name: "Solution Architecting:<br>  Persona Mapping, Use Case Modeling, Conceptual & Technical Architecture Diagramming" 
-  level: 70%
+  name: "Languages:<br> Python, R, SQL, PySpark"
+  level: 80%
 - skill:
-  name: "MS Office:<br>  Word, PowerPoint, Visio, Teams, Flow, Excel (Custom VBA macros, advanced modeling), SharePoint SCA"
-  level: 100%
+  name: "Cloud Services:<br>  AWS, Azure"
+  level: 75%
 - skill:
-  name: "Business Acumen:<br>  Client Relationships, Business Development, Project Management, Financial Analysis, Technical & Functional proposal writting"
-  level: 100%
+  name: "Databases:<br>  SQL Server, Postgres, MySQL, Databricks Lakebase" 
+  level: 75%
+- skill:
+  name: "Visualization:<br>  Tableau, Qlik Sense, PowerBI, Matplotlib" 
+  level: 75%
+- skill:
+  name: "Containerization:<br>  Docker"
+  level: 65%
+- skill:
+  name: "DevOps:<br>  CI/CD, Testing (Unit, SIT, UAT etc) " 
+  level: 60%
+
+
