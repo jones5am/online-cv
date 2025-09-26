@@ -1,7 +1,1 @@
-- intro:
-  description: ""
 
-- project: 
-  title: Document Data Services
-  link: "https://github.com/jones5am/Malware_Classification_Using_Deep_Learning"
-  tagline: "This project first involved translating hex files into a binary stream 1D image. Then building various deep learning networks based on CNN and Bi-Directional LSTM to classify the known malware files into 9 different classes."
