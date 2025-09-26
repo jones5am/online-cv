@@ -1,37 +1,7 @@
 - intro:
-  description: "Take a look at some of my GitHub repositories below for some work samples and projects!
-  <br><br>
-  Note that due to the nature of my work some of my more advanced scripts and projects cannot be posted publicly.These projects are the product of my own extracuricular work, including my graduate studies. Please note some projects were a group effort and this is indicated in the ReadMe file if applicable."
+  description: ""
 
 - project: 
-  title: Malware Classification Using Deep Learning
+  title: Document Data Services
   link: "https://github.com/jones5am/Malware_Classification_Using_Deep_Learning"
   tagline: "This project first involved translating hex files into a binary stream 1D image. Then building various deep learning networks based on CNN and Bi-Directional LSTM to classify the known malware files into 9 different classes."
-- project: 
-  title: Connecting IoT to Automl
-  link: "https://github.com/jones5am/Connecting_IoT_to_AutoML"
-  tagline: "This project combined Raspberry Pi derived senor data, with open source AutoML packages, to showcase a proof-of-concept for designing cost efficient industrial optimzation systems."
-- project:
-  title: Network DOS Attack Detection
-  link: "https://github.com/jones5am/Network_DOS_Attack_Detection"
-  tagline: "Using the 1998 DARPA Intrusion Detection Evaluation dataset I configured a Random Forest model for anomaly detection."
-- project:
-  title: Data Mining Project on World Military Spending
-  link: "https://github.com/jones5am/DataMining_WorldMilitarySpending"
-  tagline: "This project focused on data mining the SIPRI Milex dataset of world military spending by country."
-- project:
-  title: Predictive Modeling on Seattle Housing Prices
-  link: "https://github.com/jones5am/PredictiveModel_SeattleHousingPrices"
-  tagline: "This project built a predictive linear regression model for housing prices in the Seatle Housing market by using the Regsubsets method of feature selection and arriving at a .65 Adjusted Rsquared."
-- project:
-  title: Data Mining Project on Commodities Prices since 1960
-  link: "https://github.com/jones5am/DataMining_Commodities"
-  tagline: "This project mines insights from a comprehensive dataset on publicly traded commodities obtained from the World Bank."
-- project:
-  title: Regsubsets Method for Feature Selection
-  link: "https://github.com/jones5am/Regsubset_FeatureSelection_HealthData"
-  tagline: "Analysis focusing on using the various regsubsets selection methods to create a linear regression on health data."
-- project:
-  title: Temporal Analysis on Chicago Crime Data
-  link: "https://github.com/jones5am/TemporalAnalysis_ChicagoCrime-"
-  tagline: "Temporal Analysis exploring factors contributing to Chicago Crime Data."
